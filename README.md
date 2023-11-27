@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/8botvm12kwedo83k?svg=true)](https://ci.appveyor.com/project/FrustratTr/homeworkkqa3)
+[![Java CI with Gradle](https://github.com/FrustratTr/HomeworkkQA3/actions/workflows/gradle.yml/badge.svg)](https://github.com/FrustratTr/HomeworkkQA3/actions/workflows/gradle.yml)
